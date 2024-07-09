@@ -1,1 +1,1 @@
-Test if A* algo
+Test of A* algo
